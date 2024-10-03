@@ -1,6 +1,5 @@
 ---
 title: "Adversus is a web-based dialer and practical CRM solution"
-slug: custom-post-1
 aliases:
     /blog/post-1/
 

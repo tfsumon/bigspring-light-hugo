@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://demo.gethugothemes.com/bigspring-light/examplesite/"
+baseURL = "https://tfsumon.github.io/bigspring-light-hugo/"
 title = "Bigspring Light"
 theme = "bigspring-light-hugo"
 # post pagination
